@@ -11,7 +11,7 @@ B) Takes your age for further detail
 
 C) The ASA Score
 
- {   The ASA score is a subjective assessment of a patient’s overall health that is based on five classes (I to V).
+  The ASA score is a subjective assessment of a patient’s overall health that is based on five classes (I to V).
       
       1.Patient is a completely healthy fit patient.
       
@@ -22,7 +22,7 @@ C) The ASA Score
       4.Patient has incapacitating disease that is a constant threat to life.
       
       5.A moribund patient who is not expected to live 24 hour with or without surgery.
-}
+
 
 D) General diseases patient suffer from.
 

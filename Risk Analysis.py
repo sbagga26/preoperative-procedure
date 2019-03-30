@@ -1,5 +1,7 @@
 
-# coding: utf-8
+#this file is basically the code to be ran in jupyter file 
+#this is a simple machine learning module to do risk analysis of different procedures in terms of morbidity(chances of beinf diseased or critical)
+# and mortality(the death rate)
 
 # In[3]:
 
@@ -21,7 +23,7 @@ from sklearn.cross_validation import cross_val_score
 # In[4]:
 
 
-df7=pd.read_excel('Desktop/Project/Metadata.xlsx',sheet_name='Risks7')
+df7=pd.read_excel('Desktop/Project/Metadata.xlsx',sheet_name='Risks7') #edit the location of your metafile downloaded
 df7
 
 

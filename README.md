@@ -9,7 +9,7 @@ A) Surgical grade of the disease which is like the intensity of the operation li
 
 B) Takes your age for further detail.
 
-C) General diseases patient suffer from.
+C) Common diseases patient suffer from(like thyroid,diabetes) and if the person is under medication or not
 
 D) The ASA Score
 

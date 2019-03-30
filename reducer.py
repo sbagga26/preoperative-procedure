@@ -1,3 +1,4 @@
+#this file just basically prints the pre-oprative procedure that needs to be performed 
 #!/usr/bin/python36
 
 import sys

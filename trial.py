@@ -1,3 +1,4 @@
+#this takes the input from the webpage and collect the data that is needed to be processed
 #!/usr/bin/python2
 
 print("content-type: text/html")

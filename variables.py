@@ -1,3 +1,4 @@
+#this is a sample input that will be passsed
 #!/usr/bin/python
 
 sg=1

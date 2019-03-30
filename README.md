@@ -7,9 +7,11 @@ In input it takes
 
 A) Surgical grade of the disease which is like the intensity of the operation like how critical it is.
 
-B) Takes your age for further detail
+B) Takes your age for further detail.
 
-C) The ASA Score
+C) General diseases patient suffer from.
+
+D) The ASA Score
 
   The ASA score is a subjective assessment of a patient’s overall health that is based on five classes (I to V).
       
@@ -23,8 +25,6 @@ C) The ASA Score
       
       5.A moribund patient who is not expected to live 24 hour with or without surgery.
 
-
-D) General diseases patient suffer from.
 
 By taking these input we generate the output as pre-operative procedure that needs to be done as per the given inputs.
 
